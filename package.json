@@ -53,7 +53,7 @@
     "jsdom": "11.6.2",
     "markdown-to-html": "0.0.13",
     "nyc": "^11.7.1",
-    "rollup": "0.46.0",
+    "rollup": "3.29.5",
     "rollup-plugin-babel": "^3.0.3",
     "tape": "^4.9.0",
     "tiny-worker": "^2.1.2",
